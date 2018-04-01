@@ -28,6 +28,9 @@ You see lots of good things to talk about. Please if you have a question, commen
 * [Filezilla](https://filezilla-project.org/download.php?platform%3Dosx&amp;sa=D&amp;ust=1482051512667000&amp;usg=AFQjCNFTEbrl8t6BJNRvQON4JeOcDRz9eg)
 * [Hyper](https://hyper.is&amp;sa=D&amp;ust=1482051512670000&amp;usg=AFQjCNFOeIcA6SapfQGvrjvwZx8FoRT32w)
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/&amp;sa=D&amp;ust=1482051512671000&amp;usg=AFQjCNEL6bKQkVPF8PMbC7UrdHdTZrsljA)
+* [Dash (API Documentation)](https://kapeli.com/dash)
+* [Postman 2](https://www.getpostman.com/apps)
+* [MongoDB Compass](https://www.mongodb.com/products/compass)
 
 ## Software That Makes Things Easier 
 
@@ -40,4 +43,19 @@ You see lots of good things to talk about. Please if you have a question, commen
 * [Skype](https://www.skype.com/en/download-skype/skype-for-computer/&amp;sa=D&amp;ust=1482051512669000&amp;usg=AFQjCNFtAa54NSDZ9D47FWko2ASrd4g64A)
 * [Obs](https://obsproject.com/download&amp;sa=D&amp;ust=1482051512670000&amp;usg=AFQjCNEjM-KKVW_vEzloBLEDRbVHeED84w)
 * [Zoom.us](https://zoom.us/support/download&amp;sa=D&amp;ust=1482051512672000&amp;usg=AFQjCNH3gIPca0U4mSXSVWHlv-nVYlQykg)
+* [Duet Display (iPad become an extra display)](https://www.duetdisplay.com/)
 
+## Personal Favorites
+
+* [1 Password](https://1password.com/downloads/)
+* [Camtasia](https://www.techsmith.com/download/camtasia/)
+* [Snagit](https://www.techsmith.com/download/snagit/)
+* [Mind Node 5 (MAC ONLY)](https://itunes.apple.com/us/app/mindnode-5/id1289197285?mt=12)
+* [Crypto Wallet - Exodus](https://www.exodus.io/releases/)
+* [Display Link - Docking Stations](http://www.displaylink.com/downloads/macos)
+* [Parallels Desktop](https://www.parallels.com/)
+* [Microsoft Office]()
+* [Telegram](https://telegram.org/apps)
+* [Grammarly](https://www.grammarly.com/native/mac)
+* [Eset Cyber Security Pro](https://www.eset.com/us/download/home/)
+* [Nord VPN](https://nordvpn.com/download/)
